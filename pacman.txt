@@ -1,0 +1,4 @@
+sudo pacman -Syu -- # full pkg update 
+sudo pacman -Sy -- # min?? pkg update 
+sudo pacman -R  # remove pkg
+sudo pacman -Syyy ?

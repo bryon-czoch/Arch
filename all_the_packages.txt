@@ -1,0 +1,54 @@
+# `pacman -S` the all the packages
+
+
+gnome
+gdm
+nouveau
+xf86-video-nouveau
+xorg-xinit
+xorg
+xorg-server
+xrandr
+firefox
+keypass
+virtualbox
+vboxconfig
+ntfs-3g
+numlockx
+arch-audit
+gparted
+gimp
+rsync
+docker
+git
+base-dev
+virtualbox-host-dkms
+virtualbox-dkms
+
+# ntp
+libreoffice-still
+rdfind
+gnome
+gnome-extra
+xterm
+firefox
+chromium
+ufw
+nmap
+hplip
+cups
+cups-pdf
+system-config-printer
+gtk3-print-backends
+gparted
+conky
+
+# sweet system info
+screenfetch
+
+
+
+# apg missing
+keepass
+# for media reader
+pciutils usbutils

@@ -1,0 +1,8 @@
+﻿## Install printer
+
+sudo pacman -S cups cups-pdf 
+sudo systemctl start cups
+sudo pacman -S hplip
+sudo hp-setup -i
+sudo pacman -S system-config-printer
+sudo pacman -S gtk3-print-backends
